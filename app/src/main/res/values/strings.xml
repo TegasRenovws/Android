@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BuatViewdanViews</string>
+    <string name="content_text">New Hero Nakroth</string>
+    <string name="content_information">Class: Assassin\n
+        Type: Charger\n
+        Recommenden Role: Jungle</string>
+    <string name="content_difficulty">Medium</string>
+    <string name="story_hero">"Dosamu akan dihakimi di neraka."\n
+        Nakroth mengabdi sebagai the Arbiter of Souls di neraka. Pangeran atau orang miskin, pendosa atau orang suci, semuanya harus menghadapi pengadilan sebelum melanjutkan perjalanan ke alam baka.\n
+        Saat Preyta membuka jalur antara alam Baka dan Dunia, Nakroth bergabung dengan Hells Legions untuk menyerang dunia Manusia. Namaun, tak seperti The Fallen yang kejam, berpegang pada aturannya yang ketat, pasukan arwah yang dia pimpin dilarang untuk membunuh tahanan atau rakyat sipil. Bagi Nakroth, pertarungan menjadi cara menguji kemampuanya melawan musuh yang paling tangguh, bukan sebuah sarana pembantaian\n
+        Tentu saja, kebaikan Nakroth tak berlaku di medan perang, walaupun dia menanamkan rasa hormat dalam diri musuhnya atas sikap kesatria, keberanian dan kemampuan yang dia tunjukkan. "Tak satupun berani mengabaikan keberadaan Nakroth. Pedang yang dimilikinya menjadi sumber mimpi buruk kami." Walaupun biasanya bersikap segan, Nakroth tak bisa menahan senyum kecilnya saat mendengar perkataan seperti itu dari musuhnya.\n
+        Hidup atau mati, kamu tak bisa kabur dariku.\n</string>
+    <string name="tingkat_kesulitan">Tingkat Kesulitan</string>
+    <string name="kelas">kelas</string>
+    <string name="information">Information</string>
+    <string name="judgment_s_blade">Judgment\'s Blade</string>
+    <string name="assassins">Assassins</string>
+    <string name="_3_photos">3 Photos</string>
+    <string name="penulis">Penulis</string>
+    <string name="foto">3 photos</string>
+    <string name="tegas_renov">Tegas Renov</string>
+    <string name="build_item">BUILD ITEM</string>
+</resources>
